@@ -1,0 +1,1 @@
+we do digital © 2014 [neighbrs.org](http://neighbrs.org/) and [weAreThePlayMakers](https://github.com/weAreThePlayMakers) support free as in freedom - [GPL v3](http://www.gnu.org/licenses/gpl-3.0.txt) - consider doing the same

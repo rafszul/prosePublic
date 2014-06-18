@@ -1,0 +1,20 @@
+# Summary
+
+* [initial setup of the network](initial setup of the network.md)
+* [spare wheels: prepMaterial](prepMaterial.md)
+    * [Greetings ChangeMakers](Greetings ChangeMakers.md)
+    * [diasporachangemakers.net user participation](diasporachangemakers.net user participation.md)
+    * [new site structure](new site structure.md)
+    * [we are internet of things](we are internet of things.md)
+    * [Activate & Profile Alert Message](Activate & Profile Alert Message.md)
+    * [rsa - diaspora changemakers](rsa - diaspora changemakers.md)
+    * [Note from ms imaginary contact wk 2/3](3.md)
+    * [antiBullying](antiBullying.md)
+    * [page1](page1.md)
+    * [underDev by wATPM](underDev by wATPM.md)
+    * [mentors](mentors.md)
+    * [rafszul gravatar](rafszul gravatar.md)
+    * [pirates](pirates.md)
+    * [diasporaChange preliminary issues](diasporaChange preliminary issues.md)
+    * [diaspora changemakers proposed development plan](diaspora changemakers proposed development plan.md)
+
