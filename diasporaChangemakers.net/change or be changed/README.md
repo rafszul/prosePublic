@@ -2,21 +2,35 @@
 
 ### so just to clarify, what is diasporaChangemakers.net?
 
-at the most general level it is a social networking software package intended to become a virtual representation of a social network of 100 individual changemakers who secured a place on diaspora changemakers leadership programme provided by the RSA.
+at most general level i guess it is social networking software package intended to become a virtual representation of a social network of 100 individual changemakers who secured a place on diaspora changemakers leadership programme provided by the RSA. that's the basic idea
 
-that's the basic idea but there is more; diasporaChangemakers.net is not only a social networking site buit on wordpress but also a tool created for the need of an academic research run by the RSA and focused on community creation among changemakers.
+### but there is more to diasporaChangemakers.net
 
-the network basis and foundation were designed and built on wordpress by London based duo of digital producers weAreThePlayMakers who also hope to introduce users of the platform to some aspects of modern web technologies and aproaches.
+so appart from being a social networking portal with smokes and mirrors like:
 
-essentially diasporachangemakers.net is you
+- built in content management system with
+- customisable editorial workflow;
+- making it a fully blown reliable web publishing suite;
+- with multitude of features supporting online training for small to midium organisations and teams
+- team creation or project menagement suite
+- that will improve commumication among the employes.
+- it could also work as data visualisation tool
+- or all time favourite data dashboards
+- or forums for suport of initiatives aimed at easy and intuitve exchange of resources/skills available within a comunity with emphasis on
+- smaller networks and groups with local being the word key
 
-it is your network, your community, it could become your product and much more.
+an example could be a community surrounding a local market or a street using their page on the network as means to organise and manage recurent, monthly event in the park at the top of the road. this page for this community is automatically fully integrated with google api and callendars on the phones of its users, with their email aplications, file storage services like google drive ot dropbox and alowing for exchange of documents, invoicing, assets management etc.
 
-you are the designers, the developers, the menagers... and you are also responsible for making coffee ...
+so all in all the platform could also serve as a responsive and very powerfull tool for academic research focused on social community mapping and analysis utylising methodologies and ability to visualise tabular data like in this graph:
 
-how could that be you might be asking? well the moment you engage with the community via the network; the moment you pose a question on the forum; or send us a message asking for a feature you are joining the developers team and are officially granted permission to grow a beard, drink two buckets of coffee a day and start suffering due to internet explorers incompatibility with pretty much everything.
+secured within wordpress shell and armed with technologies like d3.js or JSON API, the network, it's conceptual structure, design and methodology hacked together by London based duo weAreThePlayMakers
 
-okay the last bit was a bit of an exaggeration but my main point is as valid as it was. you are a part of our team; this platform is your platform; it will grow only because you grow and it will become what you will make of it.
+we hope that at the very least we should give you an oportunity to get as much exposure to the modern web, it's aproaches, methods and ethos that your fragile human brain can take and absorbe without too much of a risk of breakdown
+
+
+
+
+
 
 this was our intention from the start; to build a low traffic community and help those within establish themselves on digital platforms.
 

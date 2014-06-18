@@ -1,53 +1,8 @@
-## initial setup of the network
+# hi there,
 
-planned information architecture and structure of basic sites with overview (*name: description*):
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body>I've been beating into shape the ideas how to structure the site and make the access if not intuitive then at least somewhat making sense. <br>
 
-### primary sites:
 
-- main: this is the main site for participants of rsa programme
 
-- rSA: network data driven considerations followed by data viz compositions which are powering research by the team at RSA
-
-- playMakers: cotton wool and mental acrobatics prompted by full on engagement with the web and all brilliant minds engaged in rewriting the modern reality
-
-- open: free for all side of the network of changemakers
-
-### support and development:
-
-- devBlog: new features, announcements and discussion about the direction of the development
-
-- wiki: network documentation
-
-- fAQ: questions posed more than five times end up here so everyone is in the know
-
-- qAndAa: fix your make up, gather your thoughts and shoot us your personal message, ask a question or request a feature
-
-- template: we are the playmakers and we are on a quest to bring awesomenes of web tech to those who have proficiencies in languages different than the ones which could be rendered by modern web browsers.
-
-### course related sites:
-
-- c1:
-
-- c2:
-
-- c3:
-
-- c4:
-
-- c5:
-
-### digital initiatives:
-
-- doYouHTML: from digital natives to analog tribes on pitching ideas in machine friendly manner
-
-- paperwork: "... papers... just papers... business papers..."
-
-- fifthColumn: cutting through red tape and bureaucracy the gitHub way
-
-- mirror: "mentoring practice of rephrasing a question or problem as means to provide deeper understanding of its context with intention to find  to find an answer or solution. Mirror is our shot at creating an environment for reach social expirience and growth of deep personal relationships on digital platform at minimal cost
-
-### user blogs:
-
-- esseHomo:
-
+<br>There is a number of changes and these are here to stay. They will affect some privacy issues.<br><br><a href="http://Diasporachangemakers.net">Diasporachangemakers.net</a> is the main domain with.initial <a href="tel:100">100</a> changemakers.<br><br>The site stays the way it is now so no users issues. With some exceptions like new menu.<br><br>Then there is rsa and playmakers sites. First for data viz and we are going to have an editorial schedule so leave us feedback <br><br>- How much time you can commit to writing and content creation per week<br><br>- Which days of the week you are going to do that<br><br>Playmakers is a development blog and I'll be polluting it with stuff like this one.<br><br>The third sub-site is open and as the name suggests it is open for registrations to everyone. The site is as free and open as possible. We will copy the users details save the stuff relevant to RSA. This will be our template on which we will work <a href="http://open.diasporachangemakers.net">open.diasporachangemakers.net</a>.<br><br>The rest of the network are customised sites with wariety of themes allowsing for any customization. <br><br>We will have a number of sites to which we will all have to contribute some work to but i hope to hook up most of them to another APIs. Like github, Facebook or edgesense for that matter.<br><br>Some of these will be wikis or simple directories and i belive work with these could be automated but admin still needed.<br><br>Chapters in this section are repositories of text for all of these sites. each site has its own chapter and even though they are very different from each other, certain aspects and some info is included on each one and it remains almost unchanged from site to site. Just edits.<br><br>This is a template for anyone who thinks about creating a product online and any project that I could possibly think of always could benefit from web tech. <br><br>Changemakers, users, admins, editors or whoever who needs a blog, website or only manageable digital pr and privacy are given a possibility to create their own site for the project they run if they don't have one already. If they do we would gladly install template which would allow for seamless integration.<br><br>Take a look at the structure and go through each one of the sites to see the material already there. I'm sure you'll see aspects which could use some atention (mostly this attention comming down to copying from one chapter to another and upadating the names acordingly. Feel free to go ahead and edit as much as you wish. <br><br>While doing so we would like to ask you to please please don't be evil or patently thoughtless or plain stupid.<br><br>Check out our first and only moral talk so you are familiar with our influenced by Charles Offdensen insightfull "put boots to him, medium style" which inspired out "boots policy" <br><br><br><br><br><br><br><br><br><br>re&nbsp; of this&nbsp; sites are <br><br></body></html>
 
