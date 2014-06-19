@@ -26,4 +26,10 @@ nothing more nothing less
 
 ## details
 
+[diasporachangemakers.net](http://diasporachangemakers.net/)
+
+Diaspora ChangeMakers
+
+a network for RSA Diaspora ChangeMakers
+
 this is the main site for participants of rsa programme
