@@ -18,13 +18,13 @@ planned information architecture and structure of basic sites with overview (*na
 
 - devBlog: new features, announcements and discussion about the direction of the development
 
-- wiki: network documentation
+- docs: network documentation
 
 - fAQ: questions posed more than five times end up here so everyone is in the know
 
 - qandA: fix your make up, gather your thoughts and shoot us your personal message, ask a question or request a feature
 
-- template: we are the playmakers and we are on a quest to bring awesomenes of web tech to those who have proficiencies in languages different than the ones which could be rendered by modern web browsers.
+- change: we are the playmakers and we are on a quest to bring awesomenes of web tech to those who have proficiencies in languages different than the ones which could be rendered by modern web browsers.
 
 ### course related sites:
 
